@@ -69,6 +69,14 @@ main {
   main {
     max-width: 20%;
   }
+
+  .heading {
+    max-width: 90%;
+  }
+
+  .description {
+    max-width: 95%;
+  }
 }
 
 /* MOBILE MEDIA QUERY */
